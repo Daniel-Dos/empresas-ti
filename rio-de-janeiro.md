@@ -25,3 +25,8 @@
 * [To-Brasil](http://www.to-brasil.com/)
 * [Venco-csti](http://www.venco-csti.com.br/)
 * [Wdev](http://www.wdev.com.br/)
+* [GPS Conecta](http://www.gpsconecta.com.br/)
+* [Seven Soluções](http://www.sevensolucoes.com.br/)
+* [Skidun](http://www.skidun.com.br/)
+* [Agência Guppy](http://www.agenciaguppy.com.br/)
+* [Agência Kindle](http://www.kindle.com.br/)

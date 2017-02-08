@@ -2,6 +2,8 @@
 
 ## Rio de Janeiro
 * [Accenture](https://www.accenture.com/br-pt)
+* [Agência Guppy](http://www.agenciaguppy.com.br/)
+* [Agência Kindle](http://www.kindle.com.br/)
 * [Cadmus](http://site.cadmus.com.br/)
 * [Delphos](http://www.delphos.com.br/)
 * [Disys](http://www.disys.com.br/)
@@ -28,5 +30,3 @@
 * [GPS Conecta](http://www.gpsconecta.com.br/)
 * [Seven Soluções](http://www.sevensolucoes.com.br/)
 * [Skidun](http://www.skidun.com.br/)
-* [Agência Guppy](http://www.agenciaguppy.com.br/)
-* [Agência Kindle](http://www.kindle.com.br/)
